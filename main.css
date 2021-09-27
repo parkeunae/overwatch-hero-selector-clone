@@ -4,7 +4,7 @@
 
 body {
   height: 100vh;
-  background: center / cover no-repeat fixed url('/images/bg.jpg');
+  background: center / cover no-repeat fixed url('./images/bg.jpg');
 }
 
 .container {
